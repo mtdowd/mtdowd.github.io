@@ -1,2 +1,3 @@
-foo
-foo
+## this is my README ##
+*foo*
+**foo**
