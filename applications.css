@@ -1,8 +1,10 @@
 h1 {
-  color: blue;
+  color: navy;
+  text-align: center;
 }
 h3 {
   color: red;
+  font-size: 30px;
 }
 body {
   font-size: 20px;
@@ -10,8 +12,16 @@ body {
 #background {
   color: green;
 }
+#photos {
+  color: green;
+  width: 200px;
+  font-size: 80%;
+  text-align: center;
+  padding-bottom: 0.5em;
+}
 img {
   border: 1px solid gray;
   margin: 10px;
-  float: left;
+  height: 200px;
+  width: 200px;
 }
